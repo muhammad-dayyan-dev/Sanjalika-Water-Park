@@ -1,0 +1,47 @@
+.heading{
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 30px;
+    text-decoration: underline;
+    /* margin-top: 10vh; */
+}
+
+.about-us{
+    background-color: #1e3799;
+    color: white;
+    /* border: 5px solid black; */
+    font-family:  'Arial Narrow';
+    font-size: 20px;
+    padding: 60px;
+    
+}
+
+.corporate{
+    background-color: #273c75;
+    color: white;
+    font-family:  'Arial Narrow';
+    font-size: 20px;
+}
+
+.water-management{
+    color: white;
+    font-family:  'Arial Narrow';
+    font-size: 20px;
+    background-color: #00a8ff;
+    text-align: center;
+    padding: 40px;
+}
+
+.tickets{
+
+    color: white;
+    font-family:  'Arial Narrow';
+    font-size: 20px;
+    background-color: #006266;
+    text-align: center;
+    padding: 50px;
+
+}
+
+

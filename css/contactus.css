@@ -1,0 +1,20 @@
+input::placeholder {
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    
+}
+
+textarea::placeholder {
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+

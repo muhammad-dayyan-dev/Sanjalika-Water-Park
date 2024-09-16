@@ -1,0 +1,28 @@
+#rides-div{
+    text-align: center;
+    font-family: sans-serif;
+    background: linear-gradient(to right, #1488cc, #2b32b2);}
+
+#rides-heading{
+    font-family: serif;
+}
+
+.rides-name{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.rides{
+    transition: 0.5s;
+
+}
+
+.rides:hover {
+    transform: scale(1.1);
+    z-index: 2;
+    font-family: cursive;
+}
+
+
+

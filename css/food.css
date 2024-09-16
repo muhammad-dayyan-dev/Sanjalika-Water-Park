@@ -1,0 +1,29 @@
+.rest-h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.para2 {
+    text-align: center;
+    font-size: x-large;
+    font-weight: lighter;
+    color: white;
+}
+
+.fastfood-image {
+    height: 500px;
+}
+
+.fitem {
+    transition: 0.5s;
+}
+
+.fitem:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+.headingcolor{
+    font-family: Georgia, serif;
+        font-size: 8vh;
+}
